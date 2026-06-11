@@ -120,7 +120,7 @@ Semua elemen UI menggunakan palet ini dengan opacity layer untuk efek glass yang
 
 ---
 
-## 🖼️ Rekomendasi Wallpaper
+##  Rekomendasi Wallpaper
 
 Untuk hasil visual terbaik, gunakan wallpaper dengan warna **gelap & kaya**:
 - Deep blue (#1a2332)
@@ -167,7 +167,7 @@ Edit `~/.config/waybar/style.css` untuk warna, spacing, dan styling.
 
 ---
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 ### Blur tidak bekerja?
 ```bash
